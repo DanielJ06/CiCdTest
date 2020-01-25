@@ -13,6 +13,6 @@ const calc = (req, res) => {
       res.send('NaoDivisivel')
     }
   }
-}
+} 
 
 module.exports = { home, page1, page2, calc }
